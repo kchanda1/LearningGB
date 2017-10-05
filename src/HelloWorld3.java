@@ -4,4 +4,7 @@ class HelloWorld3 {
     System.out.println("Yallow Yallow");
   }
 
+  void tesst() {
+    System.out.println("Test");
+  }
 }
